@@ -38,4 +38,3 @@ ggplot(result) +
 
 # Save the output
 ggsave("choose_a_name.png", height = 5, width = 5, units = "in", dpi = 800)
-ggsave("choose_a_name.png", height = 5, width = 5, units = "in", dpi = 800)
