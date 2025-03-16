@@ -15,12 +15,12 @@ Make sure to install the 'tidyverse' package, if you don't have it already:
 *install.packages("tidyverse")*
 
 # Save the visuals
-Like the pattern formed? These lines helps you save the output 
+Like the pattern formed? These lines in the code helps you save the output 
 
 ggsave("choose_a_name.png", height = 5, width = 5, units = "in", dpi = 800)
 
 
-ggsave("choose_a_name.png", height = 5, width = 5, units = "in", dpi = 800
+ggsave("choose_a_name.png", height = 5, width = 5, units = "in", dpi = 800)
 
 
 
