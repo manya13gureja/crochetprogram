@@ -1,4 +1,4 @@
-# crochetprogram
+# Crochetprogram
 
 This project is a part of my "art in motion" project. It generates procedural patterns using mathematical equations and functional programming techniques.
 
@@ -10,10 +10,8 @@ Each time the code is run, different patterns are generated. You can see the exa
 
 # Make your own visuals
 You can clone the repo and run the program easily in any code editor. 
-Make sure to load these libraries in your workspace before running the code:
-
-*library(tidyverse)*
-*library(purrr)*
+Make sure to install the 'tidyverse' package, if you don't have it already. 
+`install.packages("tidyverse")'
 
 # Save the visuals
 Like the pattern formed? These lines helps you save the output 
